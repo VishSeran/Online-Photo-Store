@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+body {
+    font-family: COMIC, Comic Sans MS;
+    background-color: #f0f0f0;
+}
+
+.container {
+	text-align: center;
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.buttons{
+	margin-top: 20px;
+	
+}
+
+.button{
+	display: inline-block;
+	padding: 10px 20px;
+	background-color:#007bff;
+	color: #fff;
+	text-decoration: none;
+	margin: 0 20px;
+	border-radius: 5px;
+}
+
+.loginimg{
+	top: 20px;
+	right:30px;
+	position: absolute;
+}
+
+.loginimg img{
+	width: 50px; 
+    height: auto; 
+}
+
+.logbutton{
+	top: 7.5px;
+	right:60px;
+	position: absolute;
+	display: inline-block;
+	background-color:#007bff;
+	text-decoration: none;
+	color: #fff;
+	margin: 0 20px;
+	border-radius: 5px;
+	padding: 10px 20px;
+}
+
+
+
+
